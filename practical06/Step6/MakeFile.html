@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="font-family: verdana, sans-serif;font-size: 12px;color: #494c4e;">
+<p>CC = gcc<br>CCFLAGS = -O3<br>LDFLAGS = -lm</p>
+<p>all: matmultc&nbsp;</p>
+<p>matmultc: main.o mutmult.o<br>&nbsp; &nbsp; $(CC) -o $@ $^ $(LDFLAGS)<br>##$(CC) -o  matmultc main.o matmult.o $(LDFLAGS) &nbsp; &nbsp;&nbsp;</p>
+<p>matmult.o: matmult.c<br>&nbsp; &nbsp; $(CC) -c $(CCFLAGS) $&lt;<br>##$(CC) -c $(CCFLAGS) matmult.c</p>
+<p>main.o: main.c<br>&nbsp; &nbsp; $(CC) -c $(CCFLAGS) $&lt;<br>##$(CC) -c $(CCFLAGS) main.c</p>
+<p>clean:<br>&nbsp; &nbsp; rm *.o &nbsp;</p>
+</body>
+</html>
