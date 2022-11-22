@@ -1,0 +1,182 @@
+commit 281e2d1373226761ba4f42a2bbf90708b25cef1c
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 21:05:56 2022 +0000
+
+    README file for Practical 9
+
+commit b060c4f803abfa680b82f42db1a7f9a730eb62ad
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 21:05:22 2022 +0000
+
+    Codes for Practical09
+
+commit 4023b1d5d6ff0837f40e407172558c5e02eae623
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 20:39:14 2022 +0000
+
+    log file for Practical 8
+
+commit 71669b6a542a263fe4c26371289fd88db0ca8052
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 20:38:51 2022 +0000
+
+    README file for Practical 8
+
+commit 4ca478b29d01580f98ff079eeed19fdd08572b97
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 20:36:52 2022 +0000
+
+    Codes for Practical08
+
+commit 8d89954ac76c0983fe5db5ff2b580b83457e87ef
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 20:33:18 2022 +0000
+
+    log file for Practical 7
+
+commit 0d85b35a30d2463553e477f02763860d65947bcd
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 20:32:52 2022 +0000
+
+    README file for Practical07
+
+commit b77ee0202c77d177967ea3f3ef1521d09e352ea0
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 20:31:08 2022 +0000
+
+    Codes for Practical07
+
+commit 597c3c6ac79c63e6971bd30603ffeeea27b2d881
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 03:32:24 2022 +0000
+
+    log file for Practical 6
+
+commit c229198b0eb6c716b07fe75ea717a5b24a182a5f
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Tue Nov 22 03:30:46 2022 +0000
+
+    Codes for Practical06
+
+commit 5d679b1894b65c0366fa687bc71dcf335787e133
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 23:55:23 2022 +0000
+
+    Deleted the file from the git repository
+
+commit 1eef14d9f4e6794acca8373b30044894b45328a0
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 23:51:51 2022 +0000
+
+    log file for Practical 5
+
+commit 457b81ccf8d5367bbeaa0c8d8a646d6bb3bed7cc
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 23:50:50 2022 +0000
+
+    Codes for Practical05
+
+commit b1ce6c8685cd9267d1f1f7c95dd25236ae441a52
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 23:43:52 2022 +0000
+
+    Codes for Practical05
+
+commit 71608a54466f436192f6db1c87549c24c73136df
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 23:42:26 2022 +0000
+
+    log file for Practical 5
+
+commit d69ff43501949862f5c227d4014930112c35d82f
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 23:41:39 2022 +0000
+
+    Codes for Practical05
+
+commit 1c6688fd50d4cbeceda6cc711bb99f0b1890ebbe
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 23:34:13 2022 +0000
+
+    Codes for Practical04
+
+commit 3715046dbce717472cdbfcf799a63b1db7e87b79
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 23:31:37 2022 +0000
+
+    log file for Practical 4
+
+commit ba15ccb1ab9e0bb9c3798b6d1d2ec0ada55fa247
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 00:20:46 2022 +0000
+
+    log file for Practical 3
+
+commit e03ebc1ff74723da2c753be788a74ce234285662
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 00:17:22 2022 +0000
+
+    log file for Practical 3
+
+commit 5a01c4c8531bd79cebaee3b3b52a8152aeca2446
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Mon Nov 21 00:13:47 2022 +0000
+
+    Codes for Practical03
+
+commit 751f14f890f74609ed4e130c985657b9a8f69884
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Sun Nov 20 21:52:47 2022 +0000
+
+    log file for Practical 2
+
+commit f4da733015e120a81270f83c0cea4c5ea8b094f3
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Sun Nov 20 18:52:17 2022 +0000
+
+    log file for Practical 2
+
+commit 7f8642c2c317df7fdf05a24d411583a027926c49
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Sun Nov 20 14:43:51 2022 +0000
+
+    README file for Practical 2
+
+commit 98cdb0624c8c64d062892d0bf91fd89f40e3f475
+Author: U-DESKTOP-8HQT2MS\Dhaarna <dhaarna.waghaye@ucdconnect.ie>
+Date:   Sun Nov 20 14:39:00 2022 +0000
+
+    Codes for Practical02
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
